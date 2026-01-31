@@ -16,7 +16,7 @@ TRnXJzWHtAodVgWXh8tzN9e2jvkP35mkzC
 UQAoIJplNB6biOoGIGkO1QSgZ1IiCaz2dd-XpVnNn0tP_YLT
 
 
-## 4. Toncoin Tron TRX
+## 4. Tron TRX
 
 TEeUu5spVT9meKjKD5GZPTLhnzL3wmUJnm
 
