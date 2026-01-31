@@ -11,12 +11,12 @@ UQCCdS2MMzZeij6jB-gxi88hsNekGnQ2Ea403qOQyLjmXH-y
 
 TRnXJzWHtAodVgWXh8tzN9e2jvkP35mkzC
 
-## 2. TON
+## 2. Toncoin TON
 
 UQAoIJplNB6biOoGIGkO1QSgZ1IiCaz2dd-XpVnNn0tP_YLT
 
 
-## 4. Tron TRX
+## 4. Toncoin Tron TRX
 
 TEeUu5spVT9meKjKD5GZPTLhnzL3wmUJnm
 
